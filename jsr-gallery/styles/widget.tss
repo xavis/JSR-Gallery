@@ -1,0 +1,7 @@
+
+"ScrollableView":{
+	showPagingControl:false,
+	maxZoomScale:5,
+	minZoomScale:1,
+	backgroundColor: "black"
+}

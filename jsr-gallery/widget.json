@@ -1,0 +1,13 @@
+{
+	"id": "com.javiersr.jsr-gallery",
+	"name": "com.javiersr.jsr-gallery",
+	"description" : "A widget for showing an external scrollable images gallery",
+	"author": "Javier Sánchez Riquelme",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,blackberry,ios,mobileweb"
+}

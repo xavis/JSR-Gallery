@@ -1,0 +1,8 @@
+"ScrollView" : {
+	maxZoomScale: 5,
+}
+
+"ImageView" : {
+	maxZoomScale:5,
+	width:"100%",
+}
