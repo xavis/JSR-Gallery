@@ -17,7 +17,7 @@ var addImages = function(urls, defaultImage){
 			
 			imgWrapper.add(iv);
 			
-			$.galleryView.add(img1Wrapper);
+			$.galleryView.addView(imgWrapper);
 			
 		}
 		

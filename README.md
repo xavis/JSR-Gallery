@@ -14,10 +14,8 @@ A Titanium simple scrollableView gallery for Android and iOS.
 
 ### Usage
 #### 1. Declare in view
-Declare as an Alloy markup tag, passing parameters as attributes
 
-   <Require type="widget" src="jsr-gallery" id="gallery" platform="android"></Require>
-   <ScrollableView id="gallery"  platform="ios"></ScrollableView>
+   <Require type="widget" src="com.javiersr.jsrgallery" id="gallery"></Require>
     
 #### 2. Usage in controller
 

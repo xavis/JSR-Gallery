@@ -1,6 +1,6 @@
 {
-	"id": "com.javiersr.jsr-gallery",
-	"name": "com.javiersr.jsr-gallery",
+	"id": "com.javiersr.jsrgallery",
+	"name": "com.javiersr.jsrgallery",
 	"description" : "A widget for showing an external scrollable images gallery",
 	"author": "Javier Sánchez Riquelme",
 	"version": "1.0",
