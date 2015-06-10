@@ -15,7 +15,7 @@ A Titanium simple scrollableView gallery for Android and iOS.
 ### Usage
 #### 1. Declare in view
 
-   <Require type="widget" src="com.javiersr.jsrgallery" id="gallery"></Require>
+    <Require type="widget" src="com.javiersr.jsrgallery" id="gallery"></Require>
     
 #### 2. Usage in controller
 
