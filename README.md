@@ -8,8 +8,8 @@ A Titanium simple scrollableView gallery for Android and iOS.
 ### Manual installation
 
 1. If developing for Android you must install this module: [TiTouchGallery](https://github.com/gbaldera/TiTouchGallery)
-2. Download `/com.javiersr.jsr-gallery` folder and place it in the `/app/widgets` folder
-3. Add `"com.javiersr.jsr-gallery": "1.0"` in dependencies into your project's `config.json` file
+2. Download `/com.javiersr.jsrgallery` folder and place it in the `/app/widgets` folder
+3. Add `"com.javiersr.jsrgallery": "1.0"` in dependencies into your project's `config.json` file
 
 
 ### Usage
